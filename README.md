@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravjot07&label=Profile%20views&color=0e75b6&style=flat" alt="ravjot07" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Go Lang**
 
 - 👨‍💻 All of my projects are available at [https://ravjot-singh-portfolio.vercel.app/](https://ravjot-singh-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@ravu2004](https://medium.com/@ravu2004)
 
-- 💬 Ask me about **Mern**
+- 💬 Ask me about **Devops**
 
 - 📫 How to reach me **ravu2004@gmail.com**
 
